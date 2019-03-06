@@ -1,0 +1,2 @@
+* Fandamentally, we never correct user's privacy data.
+* When we get user's privacy data, we do not use this data in other than this service and app.
