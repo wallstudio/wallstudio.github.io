@@ -1,0 +1,2 @@
+This App dose not collect user's indivisual information.
+When we want user's information, we ask to user about additinal agreement.
